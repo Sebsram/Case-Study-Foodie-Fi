@@ -36,7 +36,7 @@
 | 3       | pro annual    | 63     |
 | 4       | churn         | 71     |
 
-**4. hat is the customer count and percentage of customers who have churned rounded to 1 decimal place?**
+**4. What is the customer count and percentage of customers who have churned rounded to 1 decimal place?**
 
 ![a4](https://user-images.githubusercontent.com/130475600/233708753-d79ed974-115e-451c-8694-6a391f8f8362.PNG)
 
@@ -46,4 +46,19 @@
 
 **5. How many customers have churned straight after their initial free trial - what percentage is this rounded to the nearest whole number?**
 
+![a5](https://user-images.githubusercontent.com/130475600/233840310-70bbfd0f-318e-4e48-a9bb-6808fd230925.PNG)
 
+| chunk_perc | percentage |
+| ---------- | ---------- |
+| 92         | 9          |
+
+**6. What is the number and percentage of customer plans after their initial free trial?**
+
+![a6](https://user-images.githubusercontent.com/130475600/233841669-2b62d108-4514-430e-97ba-2fbdab9b907a.PNG)
+
+| next_plan | conversions | percentage |
+| --------- | ----------- | ---------- |
+| 1         | 546         | 54.6       |
+| 2         | 325         | 32.5       |
+| 3         | 37          | 3.7        |
+| 4         | 92          | 9.2        |
