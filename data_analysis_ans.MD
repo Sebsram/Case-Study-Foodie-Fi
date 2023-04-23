@@ -54,7 +54,7 @@
 
 **6. What is the number and percentage of customer plans after their initial free trial?**
 
-![a6](https://user-images.githubusercontent.com/130475600/233841669-2b62d108-4514-430e-97ba-2fbdab9b907a.PNG)
+![a6](https://user-images.githubusercontent.com/130475600/233841797-f31fe9ab-bcad-4aa8-aef6-b23d7424324b.PNG)
 
 | next_plan | conversions | percentage |
 | --------- | ----------- | ---------- |
@@ -62,3 +62,5 @@
 | 2         | 325         | 32.5       |
 | 3         | 37          | 3.7        |
 | 4         | 92          | 9.2        |
+
+**7. What is the customer count and percentage breakdown of all 5 plan_name values at 2020-12-31? **
