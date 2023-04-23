@@ -64,3 +64,19 @@
 | 4         | 92          | 9.2        |
 
 **7. What is the customer count and percentage breakdown of all 5 plan_name values at 2020-12-31? **
+
+**8. How many customers have upgraded to an annual plan in 2020? **
+
+![a8](https://user-images.githubusercontent.com/130475600/233850347-e65835d7-fc23-402f-b8d4-b7daf97c5b1d.PNG)
+
+| unique_customers |
+| ---------------- |
+| 195              |
+
+**9. How many days on average does it take for a customer to an annual plan from the day they join Foodie-Fi? ** 
+
+![a9](https://user-images.githubusercontent.com/130475600/233851036-dda9829f-6bc2-48b9-b0e3-3805f6c087ea.PNG)
+
+| avg_days |
+| -------- |
+| 105      |
