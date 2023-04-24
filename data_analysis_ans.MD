@@ -63,9 +63,11 @@
 | 3         | 37          | 3.7        |
 | 4         | 92          | 9.2        |
 
-**7. What is the customer count and percentage breakdown of all 5 plan_name values at 2020-12-31? **
+**7. What is the customer count and percentage breakdown of all 5 plan_name values at 2020-12-31?**
 
-**8. How many customers have upgraded to an annual plan in 2020? **
+![a7](https://user-images.githubusercontent.com/130475600/234033763-30586838-4497-4dac-b4ba-c7b6075007f8.PNG)
+
+**8. How many customers have upgraded to an annual plan in 2020?**
 
 ![a8](https://user-images.githubusercontent.com/130475600/233850347-e65835d7-fc23-402f-b8d4-b7daf97c5b1d.PNG)
 
@@ -73,10 +75,29 @@
 | ---------------- |
 | 195              |
 
-**9. How many days on average does it take for a customer to an annual plan from the day they join Foodie-Fi? ** 
+**9. How many days on average does it take for a customer to an annual plan from the day they join Foodie-Fi?** 
 
 ![a9](https://user-images.githubusercontent.com/130475600/233851036-dda9829f-6bc2-48b9-b0e3-3805f6c087ea.PNG)
 
 | avg_days |
 | -------- |
 | 105      |
+
+**10. Can you further breakdown this average value into 30 day periods (i.e. 0-30 days, 31-60 days etc)**
+
+![a10](https://user-images.githubusercontent.com/130475600/234033443-f5f83e6c-506d-4be8-8f67-518633dcebd5.PNG)
+
+| grps | Customer |
+| -------- | -------- |
+| 0 - 30 days      | 48      |
+| 30 - 60 days      | 25      |
+| 60 - 90 days      | 33      |
+| 90 - 120 days      | 35      |
+| 120 - 150 days      | 43      |
+| 150 - 180 days      | 35      |
+| 180 - 210 days      | 27      |
+| 210 - 240 days      | 4      |
+| 240 - 270 days      | 5     |
+| 270 - 300 days      | 1     |
+| 300 - 330 days      | 1      |
+| 330 - 360 days    | 1      |
