@@ -48,6 +48,5 @@ Try to keep it as short as possible - you may also want to run some sort of join
 8. How many customers have upgraded to an annual plan in 2020?
 9. How many days on average does it take for a customer to an annual plan from the day they join Foodie-Fi?
 10. Can you further breakdown this average value into 30 day periods (i.e. 0-30 days, 31-60 days etc)
-11. How many customers downgraded from a pro monthly to a basic monthly plan in 2020?
 
 
